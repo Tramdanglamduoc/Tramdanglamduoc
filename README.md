@@ -1,5 +1,15 @@
 ## Hi there 👋
+- 🔭 I'm currently working on **Biomedical AI** across imaging & vision, biosignals & wearables.
+- 🌱 I'm currently learning the biomedical engineering fundamentals behind the data I work with — bioinformatics & omics, clinical data & NLP, imaging physics, and clinical workflows.
+- 👯 I'm looking to collaborate on medical AI projects: medical imaging, biosignal processing, or anything at the intersection of deep learning and healthcare.
+- 🤔 I'm looking for help with navigating the jump from undergrad CS research to a Biomedical Engineering graduate program.
+- 💬 Ask me about transfer learning, multispectral imaging, EEG analysis, or federated learning for privacy-preserving clinical AI.
+- 📫 How to reach me: tnbtram180@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: My bachelor's is in Computer Systems, but I'm heading to Biomedical Engineering for my master's, because the most interesting bugs are biological ones.
 
+
+  
 <!--
 **Tramdanglamduoc/Tramdanglamduoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
