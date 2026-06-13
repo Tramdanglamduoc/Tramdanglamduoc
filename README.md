@@ -63,12 +63,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tramdanglamduoc&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tramdanglamduoc&commits_year=2020)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tramdanglamduoc&commits_year=2020)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tramdanglamduoc&show_icons=true&theme=radical)  <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula --> -->
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tramdanglamduoc&size_weight=0.5&count_weight=0.5&layout=compact&card_width=1100)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tramdanglamduoc&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
