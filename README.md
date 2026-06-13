@@ -18,16 +18,22 @@
   
 ### 🛠 Tech stack
 - **Languages:** Python · C++ · R · MATLAB · SQL · Rust
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,C++,R,MATLAB,SQL,Rust" />
+  </a>
+</p>
 - **ML libraries:** PyTorch · TensorFlow · Scikit-learn · Numpy · OpenCV · Pandas · NLTK 
 - **ML Architectures:** CNN · RNN · Transformers (BERT, LSTM)
 - **Tools:** · Git · Docker · LaTeX
 - **Hardware & Design:** Arduino · SolidWorks · AutoCAD
-
+- **Environment**: Visual Studio Code, Microsoft
 
 ### 📌 Featured projects
 - [Skin Lesion Thesis](https://github.com/Tramdanglamduoc/skin-lesion-thesis)
 - [ResearchMate](https://github.com/Tramdanglamduoc/research-mate) 
 
+<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tramdanglamduoc&theme=prussian&hide_border=true&border_radius=6.4&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=1100&card_height=200)](https://git.io/streak-stats)
 
