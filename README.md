@@ -1,4 +1,18 @@
 ## Hi there 👋
+🎓 CS @ RTU
+
+### 🛠 Tech stack
+- **Languages:** Python · C++ · R · MATLAB · SQL · Rust
+- **ML/DL libraries:** PyTorch · TensorFlow · Scikit-learn · Numpy · OpenCV · Pandas · NLTK 
+- **ML Architectures:** CNN · RNN · Transformers (BERT, LSTM)
+- **Tools:** · Git · Docker · LaTeX
+- **Hardware & Design:** Arduino · SolidWorks · AutoCAD
+
+
+### 📌 Featured projects
+- [Skin Lesion Thesis](https://github.com/Tramdanglamduoc/skin-lesion-thesis) — EfficientNet + multispectral
+- [ResearchMate](https://github.com/Tramdanglamduoc/research-mate) — CLI research assistant
+  
 - 🔭 I'm currently working on **Biomedical AI** across imaging & vision, biosignals & wearables.
 - 🌱 I'm currently learning the biomedical engineering fundamentals behind the data I work with — bioinformatics & omics, clinical data & NLP, imaging physics, and clinical workflows.
 - 👯 I'm looking to collaborate on medical AI projects: medical imaging, biosignal processing, or anything at the intersection of deep learning and healthcare.
