@@ -1,6 +1,18 @@
 ## Hi there 👋
 🎓 CS @ RTU
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=150FF7&center=true&vCenter=true&width=435&lines=I+am+Tr%C3%A2%CC%80n+Ngo%CC%A3c+Ba%CC%89o+Tr%C3%A2m)](https://git.io/typing-svg)
+
+- 🔭 I'm currently working on **Biomedical AI** across imaging & vision, biosignals & wearables.
+- 🌱 I'm currently learning the biomedical engineering fundamentals behind the data I work with — bioinformatics & omics, clinical data & NLP, imaging physics, and clinical workflows.
+- 👯 I'm looking to collaborate on medical AI projects: medical imaging, biosignal processing, or anything at the intersection of deep learning and healthcare.
+- 🤔 I'm looking for help with navigating the jump from undergrad CS research to a Biomedical Engineering graduate program.
+- 💬 Ask me about transfer learning, multispectral imaging, EEG analysis, or federated learning for privacy-preserving clinical AI.
+- 📫 How to reach me: tnbtram180@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: My bachelor's is in Computer Systems, but I'm heading to Biomedical Engineering for my master's, because the most interesting bugs are biological ones.
+
+  
 ### 🛠 Tech stack
 - **Languages:** Python · C++ · R · MATLAB · SQL · Rust
 - **ML/DL libraries:** PyTorch · TensorFlow · Scikit-learn · Numpy · OpenCV · Pandas · NLTK 
@@ -12,15 +24,9 @@
 ### 📌 Featured projects
 - [Skin Lesion Thesis](https://github.com/Tramdanglamduoc/skin-lesion-thesis) — EfficientNet + multispectral
 - [ResearchMate](https://github.com/Tramdanglamduoc/research-mate) — CLI research assistant
+
   
-- 🔭 I'm currently working on **Biomedical AI** across imaging & vision, biosignals & wearables.
-- 🌱 I'm currently learning the biomedical engineering fundamentals behind the data I work with — bioinformatics & omics, clinical data & NLP, imaging physics, and clinical workflows.
-- 👯 I'm looking to collaborate on medical AI projects: medical imaging, biosignal processing, or anything at the intersection of deep learning and healthcare.
-- 🤔 I'm looking for help with navigating the jump from undergrad CS research to a Biomedical Engineering graduate program.
-- 💬 Ask me about transfer learning, multispectral imaging, EEG analysis, or federated learning for privacy-preserving clinical AI.
-- 📫 How to reach me: tnbtram180@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: My bachelor's is in Computer Systems, but I'm heading to Biomedical Engineering for my master's, because the most interesting bugs are biological ones.
+
 
 
   
