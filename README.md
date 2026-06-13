@@ -17,7 +17,6 @@
   
 
 ### 🛠 Tech stack
-
 - **Languages:** Python · C++ · R · MATLAB · Rust · SQL (SQLite, PostgreSQL)
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,10 +51,12 @@
 - [ResearchMate](https://github.com/Tramdanglamduoc/research-mate) 
 
 
-<br>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tramdanglamduoc&theme=prussian&hide_border=true&border_radius=6.4&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=1100&card_height=200)](https://git.io/streak-stats)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tramdanglamduoc&size_weight=0.5&count_weight=0.5&layout=compact&card_width=1100)
 
 <!-- [![Tram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tramdanglamduoc)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -65,12 +66,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tramdanglamduoc&commits_year=2020)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tramdanglamduoc&show_icons=true&theme=radical)  <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula --> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tramdanglamduoc&show_icons=true&theme=radical)  -- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tramdanglamduoc&repo=skin-lesion-thesis)](https://github.com/Tramdanglamduoc/skin-lesion-thesis) --> 
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tramdanglamduoc&size_weight=0.5&count_weight=0.5&layout=compact&card_width=1100)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tramdanglamduoc&repo=skin-lesion-thesis)](https://github.com/Tramdanglamduoc/skin-lesion-thesis)
+
+
 
 
 
