@@ -18,9 +18,9 @@
   
 ### 🛠 Tech stack
 - **Languages:** Python · C++ · R · MATLAB · SQL · Rust
-  <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,C++,R,MATLAB,SQL,Rust" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,r,matlab,git,pytorch,tensorflow,docker,latex" />
   </a>
 </p>
 - **ML libraries:** PyTorch · TensorFlow · Scikit-learn · Numpy · OpenCV · Pandas · NLTK 
