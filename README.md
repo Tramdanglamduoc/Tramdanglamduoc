@@ -17,28 +17,6 @@
 
   
 ### 🛠 Tech stack
-- **Languages:** Python · C++ · R · MATLAB · SQL · Rust
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,r,matlab,rust" />
-  </a>
-</p>
-- **ML libraries:** PyTorch · TensorFlow · Scikit-learn · Numpy · OpenCV · Pandas · NLTK 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,opencv,pandas" />
-  </a>
-</p>
-- **ML Architectures:** CNN · RNN · Transformers (BERT, LSTM)
-
-- **Tools:** · Git · Docker · LaTeX · PowerShell
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,latex,powershell" />
-  </a>
-</p>
-
-- **Hardware & Design:** Arduino · SolidWorks · AutoCAD
   
 - **Environment**: Visual Studio Code, Visual Studio
     <p align="center">
@@ -49,10 +27,10 @@
 
 ### 🛠 Tech stack
 
-- **Languages:** Python · C++ · R · MATLAB · Rust
+- **Languages:** Python · C++ · R · MATLAB · Rust · SQL (SQLite, PostgreSQL)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,r,matlab,rust" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,r,matlab,rust,sqlite,postgres" />
   </a>
 </p>
 
@@ -63,7 +41,7 @@
   </a>
 </p>
 
-- **ML Architectures:** CNN · RNN · Transformers (BERT, LSTM)
+- **ML Architectures:** CNN · RNN · Transformers (BERT, LSTM) 
 
 - **Tools:** Git · Docker · LaTeX · PowerShell
 <p align="center">
@@ -85,7 +63,6 @@
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
   </a>
 </p>
-
 
 ### 📌 Featured projects
 - [Skin Lesion Thesis](https://github.com/Tramdanglamduoc/skin-lesion-thesis)
