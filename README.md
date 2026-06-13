@@ -31,19 +31,10 @@
   </a>
 </p>
 
-- **ML Architectures:** CNN · RNN · Transformers (BERT, LSTM) 
-
 - **Tools:** Git · Docker · LaTeX · PowerShell
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,latex,powershell" />
-  </a>
-</p>
-
-- **Hardware & Design:** Arduino · SolidWorks · AutoCAD
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino" />
   </a>
 </p>
 
