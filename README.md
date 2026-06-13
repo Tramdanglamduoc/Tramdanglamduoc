@@ -47,6 +47,45 @@
   </a>
 </p>
 
+### 🛠 Tech stack
+
+- **Languages:** Python · C++ · R · MATLAB · Rust
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,r,matlab,rust" />
+  </a>
+</p>
+
+- **ML Libraries:** PyTorch · TensorFlow · Scikit-learn · NumPy · OpenCV · Pandas · NLTK
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,opencv,pandas" />
+  </a>
+</p>
+
+- **ML Architectures:** CNN · RNN · Transformers (BERT, LSTM)
+
+- **Tools:** Git · Docker · LaTeX · PowerShell
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,latex,powershell" />
+  </a>
+</p>
+
+- **Hardware & Design:** Arduino · SolidWorks · AutoCAD
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino" />
+  </a>
+</p>
+
+- **Environment:** Visual Studio Code · Visual Studio
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
+  </a>
+</p>
+
 
 ### 📌 Featured projects
 - [Skin Lesion Thesis](https://github.com/Tramdanglamduoc/skin-lesion-thesis)
