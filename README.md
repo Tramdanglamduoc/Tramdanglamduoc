@@ -65,6 +65,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tramdanglamduoc&show_icons=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tramdanglamduoc&commits_year=2020)
+
+
+
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tramdanglamduoc&size_weight=0.5&count_weight=0.5&layout=compact&card_width=1100)
 
