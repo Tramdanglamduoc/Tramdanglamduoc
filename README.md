@@ -16,7 +16,7 @@
   for my master's, because the most interesting bugs are biological ones.
   
 
-### 🛠 Tech stack
+## 🛠 Tech stack
 - **Languages:** Python · C++ · R · MATLAB · Rust · SQL (SQLite, PostgreSQL)
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@
 </p>
 
 
-### 📌 Featured projects
+## 📌 Featured projects
 - [Skin Lesion Thesis](https://github.com/Tramdanglamduoc/skin-lesion-thesis)
 - [ResearchMate](https://github.com/Tramdanglamduoc/research-mate) 
 
