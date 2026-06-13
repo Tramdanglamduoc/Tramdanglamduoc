@@ -59,6 +59,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tramdanglamduoc&size_weight=0.5&count_weight=0.5&layout=compact&card_width=1100)
 
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tramdanglamduoc&layout=compact&card_width=800)](https://wakatime.com)
+
 <!-- [![Tram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tramdanglamduoc)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
