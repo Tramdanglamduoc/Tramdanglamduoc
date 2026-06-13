@@ -24,10 +24,10 @@
   </a>
 </p>
 
-- **ML Libraries:** PyTorch · TensorFlow · Scikit-learn · NumPy · OpenCV · Pandas 
+- **ML Libraries:** PyTorch · TensorFlow · Scikit-learn · OpenCV 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,opencv,pandas" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
   </a>
 </p>
 
