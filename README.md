@@ -1,8 +1,6 @@
-## Hi there 👋
-🎓 CS @ RTU
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=150FF7&center=true&vCenter=true&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+I+am+Tr%C3%A2%CC%80n+Ngo%CC%A3c+Ba%CC%89o+Tr%C3%A2m;%F0%9F%8E%93+CS+%40+Riga+Technical+University)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&color=150FF7&center=true&vCenter=true&width=435&lines=I+am+Tr%C3%A2%CC%80n+Ngo%CC%A3c+Ba%CC%89o+Tr%C3%A2m)](https://git.io/typing-svg)
-
+## About me👋
 - 🔭 I'm currently working on **Biomedical AI** across imaging & vision, biosignals & wearables.
 - 🌱 I'm currently learning the biomedical engineering fundamentals behind the data I work with — bioinformatics & omics, clinical data & NLP, imaging physics, and clinical workflows.
 - 👯 I'm looking to collaborate on medical AI projects: medical imaging, biosignal processing, or anything at the intersection of deep learning and healthcare.
@@ -24,6 +22,9 @@
 ### 📌 Featured projects
 - [Skin Lesion Thesis](https://github.com/Tramdanglamduoc/skin-lesion-thesis) — EfficientNet + multispectral
 - [ResearchMate](https://github.com/Tramdanglamduoc/research-mate) — CLI research assistant
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tramdanglamduoc&theme=prussian&hide_border=true&border_radius=6.4&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
   
 
