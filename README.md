@@ -14,6 +14,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My bachelor's is in Computer Systems, but I'm heading to Biomedical Engineering
   for my master's, because the most interesting bugs are biological ones.
+  
 
 ### 🛠 Tech stack
 
@@ -45,15 +46,18 @@
   </a>
 </p>
 
+
 ### 📌 Featured projects
 - [Skin Lesion Thesis](https://github.com/Tramdanglamduoc/skin-lesion-thesis)
 - [ResearchMate](https://github.com/Tramdanglamduoc/research-mate) 
+
 
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tramdanglamduoc&theme=prussian&hide_border=true&border_radius=6.4&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=1100&card_height=200)](https://git.io/streak-stats)
 
   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tramdanglamduoc&size_weight=0.5&count_weight=0.5)
 
 
 
