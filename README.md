@@ -15,16 +15,6 @@
 - ⚡ Fun fact: My bachelor's is in Computer Systems, but I'm heading to Biomedical Engineering
   for my master's, because the most interesting bugs are biological ones.
 
-  
-### 🛠 Tech stack
-  
-- **Environment**: Visual Studio Code, Visual Studio
-    <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
-  </a>
-</p>
-
 ### 🛠 Tech stack
 
 - **Languages:** Python · C++ · R · MATLAB · Rust · SQL (SQLite, PostgreSQL)
@@ -34,7 +24,7 @@
   </a>
 </p>
 
-- **ML Libraries:** PyTorch · TensorFlow · Scikit-learn · NumPy · OpenCV · Pandas · NLTK
+- **ML Libraries:** PyTorch · TensorFlow · Scikit-learn · NumPy · OpenCV · Pandas 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,opencv,pandas" />
@@ -57,10 +47,10 @@
   </a>
 </p>
 
-- **Environment:** Visual Studio Code · Visual Studio
+- **Environment:** Visual Studio Code · Visual Studio · Anaconda
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,anaconda" />
   </a>
 </p>
 
