@@ -55,8 +55,8 @@
 
 <table><tr>
 <td><img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" height="250"/></td>
-<td><img src="https://media.giphy.com/media/5EiRZJNR7cgZwqncwM/giphy.gif" height="250"/></td>
-<td><img src="https://media.giphy.com/media/G4JkSxrbvHsZEs6fXp/giphy.gif" height="250"/></td>
+<td><img src="https://raw.githubusercontent.com/Tramdanglamduoc/Tramdanglamduoc/Main/assets/gif2.gif" width="200"/></td>
+<td><img src="https://raw.githubusercontent.com/Tramdanglamduoc/Tramdanglamduoc/Main/assets/gif3.gif" width="200"/></td>
 <td><img src="https://media.giphy.com/media/FLbMRL3o3FzODu2M0l/giphy.gif" height="250"/></td>
 </tr></table>
 
