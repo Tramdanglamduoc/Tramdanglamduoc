@@ -1,10 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=100&pause=1000&color=bddfff&center=true&vCenter=true&width=2000&height=200&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+I+am+Tr%C3%A2%CC%80n+Ngo%CC%A3c+Ba%CC%89o+Tr%C3%A2m;%F0%9F%8E%93+CS+%40+Riga+Technical+University)](https://git.io/typing-svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=Tramdanglamduoc&color=blue&style=flat-square)
 
+<div>
 <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="300" align="right"/>
-
-<br>
-
+  
 ## About me👋
 - 🔭 I'm currently working on **Biomedical AI** across imaging & vision, biosignals & wearables.
 - 🌱 I'm currently learning the biomedical engineering fundamentals behind the data I work with
@@ -19,6 +18,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My bachelor's is in Computer Systems, but I'm heading to Biomedical Engineering
   for my master's, because the most interesting bugs are biological ones.
+</div>
 
 
 ## 🛠 Tech stack
