@@ -20,6 +20,18 @@
   for my master's, because the most interesting bugs are biological ones.
 </div>
 
+<img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="250" align="right"/>
+
+<ul>
+<li>🔭 I'm currently working on <b>Biomedical AI</b> across imaging & vision, biosignals & wearables.</li>
+<li>🌱 I'm currently learning the biomedical engineering fundamentals behind the data I work with — bioinformatics & omics, clinical data & NLP, imaging physics, and clinical workflows.</li>
+<li>👯 I'm looking to collaborate on medical AI projects: medical imaging, biosignal processing, or anything at the intersection of deep learning and healthcare.</li>
+<li>🤔 I'm looking for help with navigating the jump from undergrad CS research to a Biomedical Engineering graduate program.</li>
+<li>💬 Ask me about transfer learning, multispectral imaging, EEG analysis, or federated learning for privacy-preserving clinical AI.</li>
+<li>📫 How to reach me: tnbtram180@gmail.com</li>
+<li>😄 Pronouns: she/her</li>
+<li>⚡ Fun fact: My bachelor's is in Computer Systems, but I'm heading to Biomedical Engineering for my master's, because the most interesting bugs are biological ones.</li>
+</ul>
 
 ## 🛠 Tech stack
 - **Languages:** Python · C++ · R · MATLAB · Rust · SQL (SQLite, PostgreSQL)
