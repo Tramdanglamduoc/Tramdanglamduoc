@@ -53,6 +53,9 @@
 
 ## 📊 GitHub Stats
 
+<img src="https://media.giphy.com/media/{ID}/giphy.gif" width="300" align="right"/>
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tramdanglamduoc&theme=prussian&hide_border=true&border_radius=6.4&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=1100&card_height=200)](https://git.io/streak-stats)
 
 
