@@ -3,6 +3,7 @@
 
 <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="300" align="right"/>
 
+
 ## About me👋
 - 🔭 I'm currently working on **Biomedical AI** across imaging & vision, biosignals & wearables.
 - 🌱 I'm currently learning the biomedical engineering fundamentals behind the data I work with
