@@ -63,7 +63,9 @@
 
 <!-- [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tramdanglamduoc&layout=compact&card_width=800)](https://wakatime.com/@tramdanglamduoc) --> 
 
-![gif](https://media.giphy.com/media/NTqDdogPlDSCH6MUvW/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/NTqDdogPlDSCH6MUvW/giphy.gif" width="400"/>
+</div>
 
 
 
