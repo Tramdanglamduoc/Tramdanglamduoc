@@ -52,11 +52,11 @@
 
 
 ## 📊 GitHub Stats
-https://github.com/Tramdanglamduoc/Tramdanglamduoc/blob/Main/assets/Art%20Pixel%20GIF.gif
+
 <table><tr>
 <td><img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" height="250"/></td>
-<td><img src="https://github.com/Tramdanglamduoc/Tramdanglamduoc/blob/Main/assets/Art%20Pixel%20GIF.gif" width="200"/></td>
-<td><img src="https://raw.githubusercontent.com/Tramdanglamduoc/Tramdanglamduoc/Main/assets/gif3.gif" width="200"/></td>
+<td><img src="https://github.com/Tramdanglamduoc/Tramdanglamduoc/blob/Main/assets/Art%20Pixel%20GIF.gif" width="250"/></td>
+<td><img src="https://github.com/Tramdanglamduoc/Tramdanglamduoc/blob/Main/assets/Loop%20Keyboard%20GIF%20by%20Yizr.gif" width="250"/></td>
 <td><img src="https://media.giphy.com/media/FLbMRL3o3FzODu2M0l/giphy.gif" height="250"/></td>
 </tr></table>
 
