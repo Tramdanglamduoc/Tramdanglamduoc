@@ -65,7 +65,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tramdanglamduoc&size_weight=0.5&count_weight=0.5&layout=compact&card_width=1100)
 
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tramdanglamduoc&layout=compact&card_width=800)](https://wakatime.com/@tramdanglamduoc) 
+
 ## 🌐 Connect with me
+<p align="center">
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tnbtram180@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ngoc-bao-tram-tran-7b104b2a2/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/subin.tammie/)
@@ -78,10 +82,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tramdanglamduoc)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tnbtram180)
 [![Codelearn](https://img.shields.io/badge/Codelearn-FF6B35?style=for-the-badge&logo=code&logoColor=white)](https://codelearn.io/profile/25031075)
-
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tramdanglamduoc&layout=compact&card_width=800)](https://wakatime.com/@tramdanglamduoc) 
-
+</p>
 ---
 
 <div align="center">
