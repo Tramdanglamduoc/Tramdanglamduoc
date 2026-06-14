@@ -54,9 +54,9 @@
 ## 📊 GitHub Stats
 
 <table><tr>
-<td><img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" height="150"/></td>
-<td><img src="https://media.giphy.com/media/5EiRZJNR7cgZwqncwM/giphy.gif" height="150"/></td>
-<td><img src="https://media.giphy.com/media/G4JkSxrbvHsZEs6fXp/giphy.gif" height="150"/></td>
+<td><img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="200"/></td>
+<td><img src="https://media.giphy.com/media/5EiRZJNR7cgZwqncwM/giphy.gif" width="200"/></td>
+<td><img src="https://media.giphy.com/media/G4JkSxrbvHsZEs6fXp/giphy.gif" width="200"/></td>
 </tr></table>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tramdanglamduoc&theme=prussian&hide_border=true&border_radius=6.4&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=1100&card_height=200)](https://git.io/streak-stats)
