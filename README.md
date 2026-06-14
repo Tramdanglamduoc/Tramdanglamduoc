@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Tramdanglamduoc&color=blue&style=flat-square)
 
 <div>
-<img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="300" align="right"/>
+<img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="200" align="right"/>
   
 ## About me👋
 - 🔭 I'm currently working on **Biomedical AI** across imaging & vision, biosignals & wearables.
