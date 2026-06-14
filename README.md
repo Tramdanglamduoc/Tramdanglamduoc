@@ -82,10 +82,33 @@
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tramdanglamduoc&layout=compact&card_width=800)](https://wakatime.com/@tramdanglamduoc) 
 
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/NTqDdogPlDSCH6MUvW/giphy.gif" width="400"/>
 </div>
 
+
+
+<p align="center">
+  Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/tnbtram180">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=tnbtram180&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=MADE+WITH&secondaryLabel=%E2%9D%A4%EF%B8%8E&primaryBGColor=%23ff7f7f&secondaryBGColor=%23ff6b6b&primaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryTextColor=%23FFFFFF&secondaryFontSize=16&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase"/>
+  <img src="https://forthebadge.com/badges/uses-brains.svg"/>
+  <img src="https://forthebadge.com/badges/built-with-science.svg"/>
+  <img src="https://forthebadge.com/badges/0-percent-optimized.svg"/>
+  <img src="https://forthebadge.com/badges/powered-by-energy-drinks.svg"/>
+</p>
+
+**Show some ❤️ by starring some of the repositories!.**
 
 
 <!-- [![Tram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tramdanglamduoc)](https://github.com/anuraghazra/github-readme-stats) 
