@@ -114,8 +114,9 @@
   <img src="https://forthebadge.com/badges/powered-by-energy-drinks.svg"/>
 </p>
 
+<p align="center">
 **Show some ❤️ by starring some of the repositories!.**
-
+</p>
 
 <!-- [![Tram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tramdanglamduoc)](https://github.com/anuraghazra/github-readme-stats) 
 
