@@ -66,7 +66,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tramdanglamduoc&size_weight=0.5&count_weight=0.5&layout=compact&card_width=1100)
 
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tramdanglamduoc&layout=compact&card_width=800)](https://wakatime.com/@tramdanglamduoc) 
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=tramdanglamduoc&layout=compact&card_width=800)](https://wakatime.com/@tramdanglamduoc)
 
 ## 🌐 Connect with me
 
