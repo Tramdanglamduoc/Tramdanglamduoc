@@ -53,8 +53,6 @@
 
 ## 📊 GitHub Stats
 
-<!-- <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="250" align="right"/> --> 
-
 <table><tr>
 <td><img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" height="150"/></td>
 <td><img src="https://media.giphy.com/media/5EiRZJNR7cgZwqncwM/giphy.gif" height="150"/></td>
