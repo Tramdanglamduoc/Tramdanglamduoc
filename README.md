@@ -83,6 +83,27 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tnbtram180)
 [![Codelearn](https://img.shields.io/badge/Codelearn-FF6B35?style=for-the-badge&logo=code&logoColor=white)](https://codelearn.io/profile/25031075)
 </p>
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="mailto:tnbtram180@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ngoc-bao-tram-tran-7b104b2a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/subin.tammie/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/side_character_algernon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://discord.com/users/baotram0272"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://x.com/Tammiehoc"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
+
+
+<p align="center">
+  <a href="https://www.kaggle.com/ngocbaotramtran"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/foFuiLNyxW/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/tramdanglamduoc"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/tnbtram180"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://codelearn.io/profile/25031075"><img src="https://img.shields.io/badge/Codelearn-FF6B35?style=for-the-badge&logo=code&logoColor=white"/></a>
+</p>
+
 ---
 
 <div align="center">
