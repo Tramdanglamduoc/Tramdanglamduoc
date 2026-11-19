@@ -53,7 +53,10 @@ I've always been fascinated by systems, and the most complex one I know is the h
 ## 📌 Featured projects
 - [Skin Lesion Thesis](https://github.com/Tramdanglamduoc/skin-lesion-thesis)
 - [ResearchMate](https://github.com/Tramdanglamduoc/research-mate) 
-
+- [EEG Classification — BCI-I × IDUN Challenge](https://github.com/Tramdanglamduoc/BCI-I-IDUN-EEG-Analysis-Challenge)
+- [Federated Learning for Brain Tumor Classification](https://github.com/Tramdanglamduoc/Federated-Learning-in-Brain-Tumor-Classification)
+- [TissueSense — Surgical Force Simulator](https://github.com/Tramdanglamduoc/Force-Estimation-and-Haptic-Feedback-in-Simulated-Robotic-Surgery)
+  
 
 ## 📊 GitHub Stats
 
