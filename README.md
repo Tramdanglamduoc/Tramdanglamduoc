@@ -35,6 +35,10 @@
 - HAM10000 pretraining raised macro F1 from 77.3% to 79.8% over ImageNet-only (5-fold CV). A multimodal image + metadata model beat image-only by +6.4 pts macro F1.
 - → [Code & full write-up](https://github.com/Tramdanglamduoc/skin-lesion-thesis)
 
+**Federated Learning for Brain Tumor Classification** · 2024  
+- Compared traditional, hierarchical and non-federated ResNet-50 training on MRI; hierarchical FL converged fastest → [Project](https://github.com/Tramdanglamduoc/Federated-Learning-in-Brain-Tumor-Classification)
+
+
 ## 🛠 Tech stack
 - **Languages:** Python · C++ · R · MATLAB · Rust · SQL (SQLite, PostgreSQL)
 <p align="center">
