@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&duration=6000&pause=200&color=008DF7&width=600&height=200&lines=%F0%9F%91%A9+Tammie+-+Tr%C3%A2%CC%80n+Ngo%CC%A3c+Ba%CC%89o+Tr%C3%A2m;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Computer+Systems;%F0%9F%91%A9%E2%80%8D%F0%9F%94%AC+Biomedical+Engineering;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BC+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&duration=6000&pause=200&color=008DF7&height=200&lines=%F0%9F%91%A9+Tammie+-+Tr%C3%A2%CC%80n+Ngo%CC%A3c+Ba%CC%89o+Tr%C3%A2m;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Computer+Systems;%F0%9F%91%A9%E2%80%8D%F0%9F%94%AC+Biomedical+Engineering;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BC+Researcher)](https://git.io/typing-svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=Tramdanglamduoc&color=blue&style=flat-square)
 
   
