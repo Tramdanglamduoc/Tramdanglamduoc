@@ -19,7 +19,6 @@ I've always been fascinated by systems, and the most complex one I know is the h
 <li>⚡ Fun fact: My bachelor's is in Computer Systems, but I'm heading to Biomedical Engineering for my master's, because the most interesting bugs are biological ones.</li>
 </ul>
 
-Currently exploring: brain–computer interfaces · neuroengineering · neural implants & neural prosthetics · biosensors & bioelectronics · tissue engineering · cellular engineering · synthetic biology
 
 ## 🛠 Tech stack
 - **Languages:** Python · C++ · R · MATLAB · Rust · SQL (SQLite, PostgreSQL)
