@@ -4,7 +4,7 @@
 
   
 ## About me👋
-<img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="250" align="right"/>
+<img src="https://media.giphy.com/media/NTqDdogPlDSCH6MUvW/giphy.gif" width="250" align="right"/>
 
 I've always been fascinated by systems, and the most complex one I know is the human body. With a background in Computer Systems, I'm now moving into **Biomedical Engineering**, building at the intersection of AI, medicine, and open knowledge. The system I keep coming back to is the **human brain**.
 
@@ -97,13 +97,6 @@ I've always been fascinated by systems, and the most complex one I know is the h
 </p> -->
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/NTqDdogPlDSCH6MUvW/giphy.gif" width="400"/>
-</div>
-
-
-
 <p align="center">
   Thank you for visiting my profile! 😊
 </p>
