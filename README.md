@@ -16,28 +16,12 @@
 <li>⚡ Fun fact: My bachelor's is in Computer Systems, but I'm heading to Biomedical Engineering for my master's, because the most interesting bugs are biological ones.</li>
 </ul>
 
-## 🔬 Research Experience
+## 🔬 Current Research Project
 
 **Research Intern (TEEP) — Taipei Medical University, Taiwan** · Oct 2026 – present  
 *Supervisor: Dr. Nguyen Phung Anh*
 - Research on AI for biomedical applications (details to follow after publication)
 - Wrote a PubMed crawler and full-text retrieval tool to collect the paper corpus → [Retrieve-Papers](https://github.com/Tramdanglamduoc/Retrieve-Papers)
-
-**Summer Research Student — Özyeğin University, Istanbul** · Summer 2026  
-*Supervisor: Prof. Burçin Ünlü · Biomedical Physics track*
-- Project: *A Physics-Informed AI Framework for Force Estimation and Haptic Feedback in Simulated Robotic Surgery.*
-- Built **TissueSense**, a web simulator modelling liver, kidney and spleen with Kelvin-Voigt and Maxwell viscoelastic models across 6 laparoscopic instruments, with Monte Carlo bootstrap uncertainty and audio-based haptic preview → [Code](https://github.com/Tramdanglamduoc/Force-Estimation-and-Haptic-Feedback-in-Simulated-Robotic-Surgery) · [Live demo](https://force-estimation-and-haptic-feedback.netlify.app/)
-
-**Bachelor Thesis — Riga Technical University** · 2026  
-*Supervisor: Assoc. Prof. Dmitrijs Bļizņuks*  
-*Using Large-Scale Datasets to Enhance Diagnosis in Limited Multi-Spectral Skin Imaging*
-- Multistage transfer learning (ImageNet → HAM10000 → proprietary multispectral dataset, 1,762 lesions, G/R/IR bands) for 4-class skin lesion classification.
-- HAM10000 pretraining raised macro F1 from 77.3% to 79.8% over ImageNet-only (5-fold CV). A multimodal image + metadata model beat image-only by +6.4 pts macro F1.
-- → [Code & full write-up](https://github.com/Tramdanglamduoc/skin-lesion-thesis)
-
-**Federated Learning for Brain Tumor Classification** · 2024  
-- Compared traditional, hierarchical and non-federated ResNet-50 training on MRI; hierarchical FL converged fastest → [Project](https://github.com/Tramdanglamduoc/Federated-Learning-in-Brain-Tumor-Classification)
-
 
 ## 🛠 Tech stack
 - **Languages:** Python · C++ · R · MATLAB · Rust · SQL (SQLite, PostgreSQL)
