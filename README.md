@@ -6,11 +6,11 @@
 ## About me👋
 <img src="https://media.giphy.com/media/NTqDdogPlDSCH6MUvW/giphy.gif" width="250" align="right"/>
 
-I've always been fascinated by systems, and the most complex one I know is the human body. With a background in Computer Systems, I'm now moving into **Biomedical Engineering**, building at the intersection of AI, medicine, and open knowledge. The system I keep coming back to is the **human brain**.
+I've always been fascinated by systems, and the most complex one I know is the human body. With a background in Computer Systems, I'm now moving into **Biomedical Engineering**, building at the intersection of AI, medicine, and open knowledge. 
 
 <ul>
 <li>🔭 I'm currently working on <b>Biomedical AI</b> across imaging & vision, biosignals & wearables.</li>
-<li>🌱 I'm currently learning the biomedical engineering fundamentals behind the data I work with — bioinformatics & omics, clinical data & NLP, imaging physics, biosensors & bioelectronics, tissue & cellular engineering, synthetic biology and clinical workflows.</li>
+<li>🌱 I'm currently learning the biomedical engineering fundamentals behind the data I work with bioinformatics & omics, clinical data & NLP, imaging physics, biosensors & bioelectronics, tissue & cellular engineering, synthetic biology and clinical workflows.</li>
 <li>👯 I'm looking to collaborate on BCI, EEG and biosignal processing, medical imaging, or anything where deep learning meets the human body.</li>
 <li>🤔 I'm looking for help with navigating the jump from undergrad CS research to a Biomedical Engineering graduate program.</li>
 <li>💬 Ask me about transfer learning, multispectral imaging, EEG analysis, or federated learning for privacy-preserving clinical AI.</li>
